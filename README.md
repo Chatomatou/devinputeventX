@@ -18,7 +18,6 @@ struct input_event {
 
 A partir de la nous pouvons aisément lire ce fichier. C'est ce que ce programme effectue, en adaptant les code de touche a celui d'un clavier français azerty.
 
-[//]: # (This syntax works like a comment, and won't appear in any output.)
 
 Source: 
   
